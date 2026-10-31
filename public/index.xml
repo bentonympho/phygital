@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>My New Hugo Project</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 31 Oct 2026 14:50:32 +0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Portfolio</title>
+				<link>http://localhost:1313/posts/my-portfolio/</link>
+				<pubDate>Sat, 31 Oct 2026 14:50:32 +0300</pubDate>
+				<guid>http://localhost:1313/posts/my-portfolio/</guid>
+				<description>&lt;p&gt;## Мои выполненные задания&lt;/p&gt;&#xA;&lt;p&gt;### Фиджитал 1&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 1 миссия 1](/images/фиджитал_1_mission_1.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 1 миссия 2](/images/фиджитал_1_mission_2.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 1 миссия 3](/images/фиджитал_1_mission_3.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 1 миссия 4](/images/фиджитал_1_mission_4.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 1 миссия 5](/images/фиджитал_1_mission_5.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 1 миссия 6](/images/фиджитал_1_mission_6.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 1 миссия 7](/images/фиджитал_1_mission_7.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 1 миссия 8](/images/фиджитал_1_mission_8.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 1 миссия 9](/images/фиджитал_1_mission_9.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 1 миссия 10](/images/фиджитал_1_mission_10.png)&lt;/p&gt;&#xA;&lt;p&gt;### Фиджитал 2&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 2 уровень 0](/images/фиджитал_2_уровень_0.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 2 уровень 1](/images/фиджитал_2_уровень_1.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 2 уровень 2](/images/фиджитал_2_уровень_2.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 2 уровень 3](/images/фиджитал_2_уровень_3.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 2 уровень 4](/images/фиджитал_2_уровень_4.png)&lt;/p&gt;&#xA;&lt;p&gt;![Фиджитал 2 уровень 5](/images/фиджитал_2_уровень_5.png)&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
