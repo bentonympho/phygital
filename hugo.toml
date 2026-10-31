@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://bentonympho.github.io/phygital/'
+languageCode = 'en'
+title = 'My Portfolio'
 theme = 'ananke'
