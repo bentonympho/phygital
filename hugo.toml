@@ -1,4 +1,5 @@
 baseURL = 'https://bentonympho.github.io/phygital/'
 languageCode = 'en'
+defaultContentLanguage = 'en'
 title = 'My Portfolio'
 theme = 'ananke'
